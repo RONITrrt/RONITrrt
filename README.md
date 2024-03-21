@@ -1,4 +1,4 @@
-# Hey there :wave:
+#SABKO NAMASTE
 
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="SABKO NAMASTE">
 
