@@ -1,3 +1,13 @@
+# Hey there :wave:
+
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="SABKO NAMASTE">
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+</p>
+
+
 # Jai Jaganath 
 
 ### <  I'm Ronit Ranjan Tripathy  >&nbsp;&nbsp;
