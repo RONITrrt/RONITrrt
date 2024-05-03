@@ -1,30 +1,21 @@
-#SABKO NAMASTE:
-
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="SABKO NAMASTE">
-
+# 💫 About Me:
+👋 Hi, I'm Ronit Ranjan Tripathy, a technology enthusiast specializing in AI/ML, cryptography, and cybersecurity. Currently pursuing B.Tech in CSE (AIML) at NIET, I'm passionate about exploring innovative tech solutions.<br><br>🚀 With a strong background in deep learning and machine learning, I've worked on diverse projects, from crime prediction models to real-time weather apps and accident detection systems.<br><br>💡 Currently, I'm focused on building a document digitalization platform and management system using ReactJS and Firebase.<br><br>🔭 I'm always eager to learn and contribute to cutting-edge projects. Let's connect and collaborate on exciting tech ventures!
 
 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/beingronit2912) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ronit-tripathy-378022229?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
 
-# Jai Jaganath 
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=RONITrrt&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=RONITrrt&theme=vue-dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RONITrrt&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-### <  I'm Ronit Ranjan Tripathy  >&nbsp;&nbsp;
-## Languages & Tools 👨‍💻 🛠:
-</br>
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-<p align="center">
+---
+[![](https://visitcount.itsvg.in/api?id=RONITrrt&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-
-
-
-
-
-</br>
-</p>
-</br>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
