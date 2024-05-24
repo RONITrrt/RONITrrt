@@ -1,6 +1,6 @@
 # Jai Jagannatha
 # 💫 About Me:
-👋 Hi, I'm Ronit Ranjan Tripathy, a technology enthusiast specializing in AI/ML, cryptography, and cybersecurity. Currently pursuing B.Tech in CSE (AIML) at NIET, I'm passionate about exploring innovative tech solutions.<br><br>🚀 With a strong background in deep learning and machine learning, I've worked on diverse projects, from crime prediction models to real-time weather apps and accident detection systems.<br><br>💡 Currently, I'm focused on building a document digitalization platform and management system using ReactJS and Firebase.<br><br>🔭 I'm always eager to learn and contribute to cutting-edge projects. Let's connect and collaborate on exciting tech ventures!
+👋 Hi, I'm Ronit Ranjan Tripathy, a technology enthusiast specializing in AI/ML, cryptography, and cybersecurity. Currently pursuing B.Tech in CSE (AIML) at NIET, I'm passionate about exploring innovative tech solutions.<br><br>🚀 With a strong background in deep learning and machine learning, I've worked on diverse projects,real time weather apps and accident detection systems.<br><br>💡 Currently, I'm focused on building a document digitalization platform and management system using ReactJS and Firebase.<br><br>🔭 I'm always eager to learn and contribute to cutting-edge projects. Let's connect and collaborate on exciting tech ventures!
 
 
 ## 🌐 Socials:
